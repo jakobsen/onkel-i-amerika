@@ -1,0 +1,16 @@
+body {
+    background: black;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+.showcase {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 80vh;
+}
+
+a {
+    color: #add8e6;
+}
